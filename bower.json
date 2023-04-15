@@ -10,7 +10,6 @@
     ".gitignore"
   ],
   "dependencies": {
-    "pako": "*",
     "fflate": "*"
   },
   "devDependencies": {
